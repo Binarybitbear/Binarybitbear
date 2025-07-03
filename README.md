@@ -17,3 +17,6 @@ The XRP Ledger offers:
 
 Join us on our journey to reshape giving in Web3.  
 Let’s make donations visible and accessible in real time!
+🌐 Visit us: [www.binarybitbear.com](https://www.binarybitbear.com)  
+🐦 Twitter: [@binarybitbear](https://twitter.com/binarybitbear)  
+📬 Contact: bbb@binarybitbear.com

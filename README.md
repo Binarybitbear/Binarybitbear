@@ -1,4 +1,4 @@
-## Binary BitBear 🐻
+## Binary BitBear 
 
 **Our Vision**  
 Binary BitBear aims to become the world’s largest donation platform on the **XRPL Ledger**.  
